@@ -1,0 +1,1 @@
+const projectName ='tribute-page-of-prophet-Mohammed';
